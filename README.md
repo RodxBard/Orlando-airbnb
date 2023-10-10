@@ -5,7 +5,7 @@ This was the Final Project of Master of Data Science and Anlytics course from Da
 The presentation was made in Portuguese-BR.
 
 Data from 534 AirBnb's advertisements were analyzed, from 2 to 5 bedrooms properties.
-As métricas analisadas foram:
+The analysed metrics were:
 1. Price per night
 2. Number of guests
 3. Number of rooms
@@ -14,3 +14,5 @@ As métricas analisadas foram:
 6. Reviews
 7. Rating
 8. Occupancy rate
+
+Insights were generated to help the future investors which type of propertie best fit their purpose.
